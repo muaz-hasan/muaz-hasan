@@ -1,7 +1,7 @@
 
 #### ``` Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇). ```
 ## 𝙸 𝚖𝚊𝚢 𝚔𝚗𝚘𝚠 𝚊 𝚝𝚑𝚒𝚗𝚐 𝚘𝚛 𝚝𝚠𝚘 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖 𝚍𝚎𝚜𝚒𝚐𝚗 ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ
-![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=muaz-hasan&style=for-the-badge)
 
 #### 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
@@ -20,7 +20,7 @@
 #### 𝚂𝚎𝚎 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 - [Portfolio](https://funsai.vercel.app)
 <!--
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FunsaiSushi) 
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/muaz-hasan) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
 -->
 ## 
@@ -50,31 +50,31 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
 ##
 ### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=muaz-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
 <!-- Dark mode -->
 <picture>
   <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=FunsaiSushi&theme=dark&hide_border=false" 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=muaz-hasan&theme=dark&hide_border=false" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FunsaiSushi&theme=light&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muaz-hasan&theme=light&hide_border=false" 
     alt="GitHub Streak Stats" />
 </picture>
 
 <!-- Top Languages Card -->
 <!-- <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=dark&hide_border=false&layout=compact" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muaz-hasan&theme=dark&hide_border=false&layout=compact" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=light&hide_border=false&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muaz-hasan&theme=light&hide_border=false&layout=compact" 
     alt="Top Languages" />
 </picture> -->
-[![Funsai's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunSaiSushi)](https://github.com/funsaisushi/github-readme-stats)
+[![Funsai's GitHub stats](https://github-readme-stats.vercel.app/api?username=muaz-hasan)](https://github.com/muaz-hasan/github-readme-stats)
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FunsaiSushi/FunsaiSushi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FunsaiSushi/FunsaiSushi/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muaz-hasan/muaz-hasan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muaz-hasan/muaz-hasan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>

@@ -5,7 +5,7 @@
 
 #### 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-- [Nihonfren - Learn Japanese JLPT](https://nihonfren.com)
+- [Nihonfren - Learn Japanese](https://nihonfren.com)
 - [Storefren - The Best Store Management App](https://storefren.com)
 - [Buckyy - A BAAS(Banking As A Service) Platform](https://buckyy.com)
 - [Boopclub - The Internet's Town Square](https://boopclub.vercel.app)
